@@ -1,12 +1,30 @@
-# frontend-roadmap
+<p align="center">  
+  <img src="public/images/JL.png" height="128">
+  <h1 align="center">Frontend Roadmap</h1>  
+  <p align="center">
+    <img src="public/images/roadmap.png" height="400">
+  </p>
+  <p align="center">
+    <a href="https://roadmap.sh/frontend">
+    	roadmap.sh
+    </a>    
+  </p>  
+  <p>
+    <img src="public/images/line.png">
+  </p>
+  <h2 align="center">Guía de estudio Frontend</h2>
+  <p>
+    <h3>Principales Bloques</h3>
+    <ul>
+      <li><a href="https://es.wikipedia.org/wiki/HTML">HTML</a></li>
+      <li><a href="https://es.wikipedia.org/wiki/CSS">CSS</a></li>
+      <li><a href="https://es.wikipedia.org/wiki/JavaScript">JAVASCRIPT</a></li>
+    </ul>
+  </p>
+</p>
 
-## Guía de estudio Frontend
-[Frontend Roadmap](https://roadmap.sh/frontend)
 
-### Principales Bloques
-- [HTML](https://es.wikipedia.org/wiki/HTML)
-- [CSS](https://es.wikipedia.org/wiki/CSS)
-- [JAVASCRIPT](https://es.wikipedia.org/wiki/JavaScript)
+
 ---
 ### HTML
 - Conceptos básicos
