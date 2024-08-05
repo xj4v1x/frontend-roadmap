@@ -1,6 +1,6 @@
 # frontend-roadmap
 
-## Guía de estudio Frontend
+## [Guía de estudio Frontend](../README.md)
 [Frontend Roadmap](https://roadmap.sh/frontend)
 
 ### Principales Bloques
