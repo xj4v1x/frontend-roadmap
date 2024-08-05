@@ -7,17 +7,3 @@ Guía de estudio Frontend
 - [CSS](https://es.wikipedia.org/wiki/CSS)
 - [JAVASCRIPT](https://es.wikipedia.org/wiki/JavaScript)
 
-
-┏━━━━━━━━┑  ┏━━━━━━━┑  ┏━━━━━━━━━━━━━━┑
-┃  HTML  ┃  ┃  CSS  ┃  ┃  JAVASCRIPT  ┃
-┗━━━━━━━━┛  ┗━━━━━━━┛  ┗━━━━━━━━━━━━━━┛ 
-
-
-
-
-
-
-
-
-
-  
