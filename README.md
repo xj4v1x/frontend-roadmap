@@ -21,7 +21,7 @@
     - ✅ [Conceptos básicos de texto](https://web.dev/learn/html/text-basics?hl=es)
     - ✅ [Vínculos](https://web.dev/learn/html/links?hl=es)
     - ✅ [Listas](https://web.dev/learn/html/lists?hl=es)
-    - [Navegación](https://web.dev/learn/html/navigation?hl=es)
+    - ✅ [Navegación](https://web.dev/learn/html/navigation?hl=es)
     - [Tablas](https://web.dev/learn/html/tables?hl=es)
     - [Formularios](https://web.dev/learn/html/forms?hl=es)
     - [Imágenes](https://web.dev/learn/html/images?hl=es)
