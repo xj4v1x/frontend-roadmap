@@ -33,6 +33,7 @@
 ### CSS
 - Conceptos básicos
   - [web.dev: Learn CSS](https://web.dev/learn/css?hl=es)
+  - [Learn CSS Grid](https://v2.scrimba.com/learn-css-grid-c02k)
 
 <p align="center">
     <img src="public/images/line.png">
@@ -41,6 +42,9 @@
 ## Recursos
 ### CSS
 - [Juego interactivo de selectores](https://flukeout.github.io/)
+- [Learn and Practice Flexbox](https://flexboxfroggy.com/#es)
+- [Grid Garden](https://cssgridgarden.com/#es)
+- 
 - [Selectors Explained - Translate CSS selectors into plain English](https://kittygiraudel.github.io/selectors-explained/)
 - [CSS Tricks](https://css-tricks.com/tag/css/)
 - [Layout Land](https://www.youtube.com/@LayoutLand/)
