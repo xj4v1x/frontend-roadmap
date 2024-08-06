@@ -33,3 +33,11 @@
 ### CSS
 - Conceptos básicos
   - [web.dev: Learn CSS](https://web.dev/learn/css?hl=es)
+
+<p align="center">
+    <img src="public/images/line.png">
+</p>
+
+## Recursos
+### CSS
+- [Juego interactivo de selectores](https://flukeout.github.io/)
