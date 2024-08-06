@@ -29,3 +29,7 @@
 ### HTML
 - Conceptos básicos
   - [web.dev: Learn HTML](https://web.dev/learn/html)
+
+### CSS
+- Conceptos básicos
+  - [web.dev: Learn CSS](https://web.dev/learn/css?hl=es)
