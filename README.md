@@ -41,3 +41,4 @@
 ## Recursos
 ### CSS
 - [Juego interactivo de selectores](https://flukeout.github.io/)
+- [Selectors Explained - Translate CSS selectors into plain English](https://kittygiraudel.github.io/selectors-explained/)
