@@ -35,6 +35,10 @@
   - [web.dev: Learn CSS](https://web.dev/learn/css?hl=es)
   - [Learn CSS Grid](https://v2.scrimba.com/learn-css-grid-c02k)
 
+### JAVASCRIPT
+- Conceptos básicos
+  - [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
+
 <p align="center">
     <img src="public/images/line.png">
 </p>
